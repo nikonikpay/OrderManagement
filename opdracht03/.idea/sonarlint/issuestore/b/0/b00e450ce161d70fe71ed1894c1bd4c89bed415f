@@ -1,48 +1,51 @@
 
 W
-java:S1854":Remove this useless assignment to local variable "order1".(ïÂ¯ô8¥®·õ/
+java:S1854":Remove this useless assignment to local variable "order1".(Œ·â8¨à»ºõ/
 W
-java:S1854":Remove this useless assignment to local variable "order2".(ç 8¥®·õ/
+java:S1854":Remove this useless assignment to local variable "order2".(ç 8¨à»ºõ/
 \
-java:S1854":Remove this useless assignment to local variable "order3".(·İûêüÿÿÿÿ8¥®·õ/
+java:S1854":Remove this useless assignment to local variable "order3".(·İûêüÿÿÿÿ8¨à»ºõ/
 W
-java:S1854":Remove this useless assignment to local variable "order4".(ëÎöß8¥®·õ/
-^
-java:S1854"<Remove this useless assignment to local variable "product1".(óå®üÿÿÿÿ8˜ù»·õ/
-^
-java:S1854"<Remove this useless assignment to local variable "product2".(‚ìğ¥øÿÿÿÿ8˜ù»·õ/
+java:S1854":Remove this useless assignment to local variable "order4".(ëÎöß8¨à»ºõ/
+_
+java:S1854"=Remove this useless assignment to local variable "orderUtil".(€…©şúÿÿÿÿ8¶Æåºõ/
 Y
-java:S1854"<Remove this useless assignment to local variable "product3".(àøì›8˜ù»·õ/
+java:S1854"<Remove this useless assignment to local variable "product1".(‡•œ8•ÏÁºõ/
+X
+java:S1854"<Remove this useless assignment to local variable "product2".(ÛŸÖ>8•ÏÁºõ/
 ^
-java:S1854"<Remove this useless assignment to local variable "product4".(Ü®£îùÿÿÿÿ8˜ù»·õ/
-^
-java:S1854"<Remove this useless assignment to local variable "product5".(µê‡€úÿÿÿÿ8˜ù»·õ/
+java:S1854"<Remove this useless assignment to local variable "product3".(¾çÒŒşÿÿÿÿ8–ÏÁºõ/
+Y
+java:S1854"<Remove this useless assignment to local variable "product4".(Ê”½î8–ÏÁºõ/
+Y
+java:S1854"<Remove this useless assignment to local variable "product5".( ôç8–ÏÁºõ/
 \
-java:S1854"?Remove this useless assignment to local variable "productUtil".(¿‚ë8˜ù»·õ/
+java:S1854"?Remove this useless assignment to local variable "productUtil".(¿‚ë8–ÏÁºõ/
 H
-java:S1481"+Remove this unused "order1" local variable.(ïÂ¯ô8‚¥®·õ/
+java:S1481"+Remove this unused "order1" local variable.(Œ·â8ªà»ºõ/
 H
-java:S1481"+Remove this unused "order2" local variable.(ç 8‚¥®·õ/
+java:S1481"+Remove this unused "order2" local variable.(ç 8ªà»ºõ/
 M
-java:S1481"+Remove this unused "order3" local variable.(·İûêüÿÿÿÿ8‚¥®·õ/
+java:S1481"+Remove this unused "order3" local variable.(·İûêüÿÿÿÿ8ªà»ºõ/
 H
-java:S1481"+Remove this unused "order4" local variable.(ëÎöß8ƒ¥®·õ/
-O
-java:S1481"-Remove this unused "product1" local variable.(óå®üÿÿÿÿ8šù»·õ/
-O
-java:S1481"-Remove this unused "product2" local variable.(‚ìğ¥øÿÿÿÿ8›ù»·õ/
+java:S1481"+Remove this unused "order4" local variable.(ëÎöß8ªà»ºõ/
+P
+java:S1481".Remove this unused "orderUtil" local variable.(€…©şúÿÿÿÿ8¼Æåºõ/
 J
-java:S1481"-Remove this unused "product3" local variable.(àøì›8›ù»·õ/
+java:S1481"-Remove this unused "product1" local variable.(‡•œ8˜ÏÁºõ/
+I
+java:S1481"-Remove this unused "product2" local variable.(ÛŸÖ>8™ÏÁºõ/
 O
-java:S1481"-Remove this unused "product4" local variable.(Ü®£îùÿÿÿÿ8›ù»·õ/
-O
-java:S1481"-Remove this unused "product5" local variable.(µê‡€úÿÿÿÿ8›ù»·õ/
+java:S1481"-Remove this unused "product3" local variable.(¾çÒŒşÿÿÿÿ8™ÏÁºõ/
+J
+java:S1481"-Remove this unused "product4" local variable.(Ê”½î8™ÏÁºõ/
+J
+java:S1481"-Remove this unused "product5" local variable.( ôç8™ÏÁºõ/
 M
-java:S1481"0Remove this unused "productUtil" local variable.(¿‚ë8›ù»·õ/
-X	java:S125"<This block of commented-out lines of code should be removed.(ÅÊ¯İ8„¥®·õ/
-X	java:S125*"<This block of commented-out lines of code should be removed.(¨¯“Ş8Ñ‰··õ/
-X	java:S125-"<This block of commented-out lines of code should be removed.(¼Å‡ö8ê©··õ/
+java:S1481"0Remove this unused "productUtil" local variable.(¿‚ë8™ÏÁºõ/
+X	java:S125"<This block of commented-out lines of code should be removed.(ÅÊ¯İ8­à»ºõ/
+]	java:S125-"<This block of commented-out lines of code should be removed.(¿«ŸÖûÿÿÿÿ8Ô®Şºõ/
 B
-java:S1128"%Remove this unused import 'java.sql'.(´İ…Å8Ø„¢¶õ/
+java:S1128"%Remove this unused import 'java.sql'.(´İ…Å8Ô®Şºõ/
 H
-java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8Ø„¢¶õ/
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8Ú®Şºõ/

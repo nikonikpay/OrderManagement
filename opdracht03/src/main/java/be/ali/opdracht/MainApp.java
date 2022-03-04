@@ -12,18 +12,18 @@ public class MainApp {
 
 
         try {
-            Order order1 = new Order("654122", "Asdrfff", "Alter", "19800", "karimavad", true, true);
+            Order order1 = new Order("654122", "Ali", "Alter", "19800", "karimavad", true, true);
             Order order2 = new Order("912545225", "Patrick", "Brussel", "0216523", "Berlin", false, true);
             Order order3 = new Order("3265550", "Mino Kochiki", "Manchester", "32650", "Manchester", true, false);
             Order order4 = new Order("5216548", "Nadia Hamid", "Sint-Niklaas", "685471", "Sint-Niklaas", true, false);
             OrderUtil orderUtil = new OrderUtil(dbUrl, username, password);
 
 
-            Product product1 = new Product(21, "Bed", 1, new BigDecimal(2500));
-            Product product2 = new Product(21, "Chair", 10, new BigDecimal(650));
-            Product product3 = new Product(21, "Desk", 5, new BigDecimal(980));
-            Product product4 = new Product(21, "Pc", 3, new BigDecimal(7000));
-            Product product5 = new Product(21, "Mirror", 1, new BigDecimal(50));
+            Product product1 = new Product(2, "Bed", 1, new BigDecimal(2500));
+            Product product2 = new Product(2, "Chair", 10, new BigDecimal(650));
+            Product product3 = new Product(2, "Desk", 5, new BigDecimal(980));
+            Product product4 = new Product(2, "Pc", 3, new BigDecimal(7000));
+            Product product5 = new Product(2, "Mirror", 1, new BigDecimal(50));
 
 
             ProductUtil productUtil = new ProductUtil(dbUrl, username, password);
@@ -37,12 +37,12 @@ public class MainApp {
 //            productUtil.addProduct(product3);
 //            productUtil.addProduct(product4);
 //            productUtil.addProduct(product5);
-            orderUtil.getOrder(21);
-            orderUtil.notSentItems();
+//            orderUtil.getOrder(1);
+//            orderUtil.notSentItems();
 //            orderUtil.updateOrderShipping(22);
-            orderUtil.notSentItems();
+//            orderUtil.notSentItems();
 
-//            orderUtil.deleteOrder(20);
+//            orderUtil.deleteLastOrder();
 
 //
 
