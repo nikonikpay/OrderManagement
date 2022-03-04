@@ -1,0 +1,33 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(²³ÏÉùÿÿÿÿ
+Z	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(¹‡Úr
+[	java:S112l"FDefine and throw a dedicated exception instead of using a generic one.(©ê¸ä
+a	java:S112–"FDefine and throw a dedicated exception instead of using a generic one.(™À¨àşÿÿÿÿ
+a	java:S112³"FDefine and throw a dedicated exception instead of using a generic one.(–üù€ùÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(íõ¨øùÿÿÿÿ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(ÍŞàÁøÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(ÍŞàÁøÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(Ûà€Åùÿÿÿÿ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(àŠÑÃÿÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(é‘ÊŞøÿÿÿÿ
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(Ï¡€Ş
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(ıèùİúÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(ÏÉóÇüÿÿÿÿ
+N	java:S106Z"9Replace this use of System.out or System.err by a logger.(ñøÑ¬
+S	java:S106["9Replace this use of System.out or System.err by a logger.(Ì¨Ø†úÿÿÿÿ
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(ØÜ£š
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(³ªÛÔûÿÿÿÿ
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(üÍ€Åùÿÿÿÿ
+V	java:S125}"<This block of commented-out lines of code should be removed.(Ñ«»óÿÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(Ñ«»óÿÿÿÿÿ
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(‚©îŠ
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(Ûà€Åùÿÿÿÿ
+[	java:S106†"9Replace this use of System.out or System.err by a logger.(àŠÑÃÿÿÿÿÿ8ˆ§Ä·õ/
+[	java:S106‡"9Replace this use of System.out or System.err by a logger.(é‘ÊŞøÿÿÿÿ8û´É·õ/
+V	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ØÜ£š8ÌªÊ·õ/
+b
+java:S1192X"GDefine a constant instead of duplicating this literal "amount" 3 times.(ıèùİúÿÿÿÿ
+j
+java:S1192Y"ODefine a constant instead of duplicating this literal "price_per_unit" 3 times.(ÏÉóÇüÿÿÿÿ
+k
+java:S2095Â"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ò€á ıÿÿÿÿ
